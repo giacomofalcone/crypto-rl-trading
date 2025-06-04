@@ -23,7 +23,7 @@ crypto-rl-trading/
 │   ├── 01_OnlyLong/                  # Baseline: long-only agent
 │   ├── 02_AddedShort/                # Long + short, no portfolio in state
 │   └── 03_FinalModel/                # Long, short, hold + full portfolio state
-├── report.pdf                       # LaTeX report and figures
+├── report.pdf                     # LaTeX report and figures
 ```
 
 ---
@@ -74,7 +74,6 @@ Evaluated using:
 
 | **Metric**               | **Description**                                                                                                                                    |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cumulative Return**    | Measures total percentage gain/loss from the initial balance at the end of the trading period.                                                     |
 | **Realized Wallet Plot** | Visual comparison of the agent’s net worth vs. market price, with annotated long/short/hold positions. Helps interpret trading behavior over time. |
 
 ---

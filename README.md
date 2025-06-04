@@ -7,7 +7,7 @@ This project applies **Proximal Policy Optimization (PPO)** to develop an agent 
 
 ## 📌 Project Summary
 
-This project was developed as part of a Master’s thesis in Computer Engineering and Fintech (5 CFU).
+This project was developed as part of the Fintech exam (5 CFU) for the Master’s degree in Computer Engineering and Fintech.
 It demonstrates the full pipeline: custom environment design, reward shaping, agent training, and performance evaluation under realistic crypto market conditions.
 
 ---
